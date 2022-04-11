@@ -1,0 +1,1 @@
+Então mesmo que você tenha assistido ao curso antigo, que tal relembrar um pouco de Javascript e quem sabe aprender coisas novas? Bons estudos!
